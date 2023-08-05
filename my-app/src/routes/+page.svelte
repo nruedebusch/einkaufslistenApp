@@ -74,6 +74,8 @@
   </ul>
 </div>
 
+
+<!-- Styling -->
 <style>
   html,
   body {
