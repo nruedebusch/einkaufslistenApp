@@ -33,7 +33,7 @@
     await remove(exactLocationOfItemInDB);
   }
 </script>
-
+<!-- head -->
 <svelte:head>
   <link
     rel="stylesheet"
